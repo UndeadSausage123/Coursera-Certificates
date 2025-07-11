@@ -1,0 +1,8 @@
+------About------
+
+Multi-safe is an An app that helps you manage and view your balances and activity from other digital wallet apps into one centralization. It 
+addresses common challenges from the challenges were it would take some time to check up on each of your digital wallet balances, causing the user to impatient and even being stressed out from the thought of missing payments. Multi-safe helps by mitigating the stress by centralizing all apps into one and can now be managed by your hands alone.
+
+------Instructions------
+
+Upon entering the app, you will be met with the login screen of our UI prototype. Assuming that you are a new user to the app, it will ask you to first create your account before it puts you on to the main dashboard. It would be bare for now as it will also ask you to verify/link your account from the other e-wallets. Once verified, you are able to see your recent transactions/activities and will now be able to manage your balances. Apart from managing balances, you are also given tips to not overspend, gain notifications from suspicious activities that you may have not done and be able to stop it before it gets bad, and gain notifications if you're close to overspending.
